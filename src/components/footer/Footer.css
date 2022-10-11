@@ -1,0 +1,30 @@
+.footer-container {
+  background-color: #e4f7f3;
+  max-width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 7rem;
+}
+
+.footer-styling {
+  margin: 5rem;
+}
+.footer-socialmedia {
+  display: flex;
+  margin-left: 2rem;
+  gap: 2rem;
+}
+
+.footer-left {
+  max-width: 28%;
+  margin-left: 5rem;
+}
+
+.footer-image {
+  display: flow-root;
+}
+
+.footer-image img {
+  height: 3rem;
+  width: 3rem;
+}

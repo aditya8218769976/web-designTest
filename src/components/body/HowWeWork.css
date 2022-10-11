@@ -1,0 +1,17 @@
+.work-container {
+  padding-top: 5rem;
+}
+
+.work-heading {
+  text-align: center;
+}
+
+.work-para {
+  text-align: center;
+  max-width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.work-img img {
+  margin-left: 10rem;
+}

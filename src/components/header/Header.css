@@ -1,0 +1,37 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  gap: 10px;
+  position: absolute;
+  width: 100vw;
+  height: 30px;
+  padding-left: 40px;
+  padding-top: 2px;
+  background: #000000;
+}
+
+.header-left {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+.header-right {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  padding-right: 40px;
+  color: #ffffff;
+}
+/* Header part ends here */

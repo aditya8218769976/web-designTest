@@ -1,0 +1,56 @@
+.about-container {
+  background-color: antiquewhite;
+  height: 589px;
+  border-bottom-left-radius: 20rem;
+  border-bottom-right-radius: 20rem;
+}
+
+.about-wrapper {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.about-heading {
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 7rem;
+}
+
+.about-para {
+  max-width: 43%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1rem;
+}
+
+.about-img {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-img1 img {
+  height: 17rem;
+}
+
+.about-middle button {
+  width: 174px;
+  height: 44px;
+  color: white;
+  background: #125e50;
+  border-radius: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.about-middle button:hover {
+  background-color: aquamarine;
+  color: black;
+  cursor: pointer;
+}

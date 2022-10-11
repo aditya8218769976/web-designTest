@@ -1,0 +1,103 @@
+.package-heading h2 {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 55px;
+  letter-spacing: 0.02em;
+  color: #151b4a;
+}
+
+.package-para {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4e516c;
+  max-width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.package-table {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  border-inline-start-color: red;
+}
+
+.package-heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.package-price {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.span1 {
+  background-color: #ffcc00;
+  height: 8.5rem;
+}
+
+.span2 {
+  background-color: beige;
+  height: 8rem;
+}
+
+.span3 {
+  background-color: beige;
+  height: 8rem;
+}
+
+.span4 {
+  background-color: beige;
+  height: 8rem;
+}
+
+.package-heading2 {
+  padding-left: 4.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.package-includes {
+  border: 1px solid yellow;
+  max-width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.package-actions button {
+  justify-content: center;
+  align-items: center;
+
+  gap: 10px;
+
+  width: 120px;
+  height: 44px;
+  color: white;
+  background: #125e50;
+  border-radius: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
+  margin-bottom: 0;
+}
+
+.package-actions {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.package-actions button:hover {
+  background-color: #4e516c;
+  cursor: pointer;
+}

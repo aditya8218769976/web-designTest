@@ -1,0 +1,42 @@
+.body-img {
+  height: 1rem !important;
+  width: 40rem !important;
+  padding-left: 12rem !important;
+}
+
+.body-style {
+  background: #e4f7f3;
+  border-radius: 20px;
+  height: 40rem;
+  margin-bottom: 2rem;
+  margin-top: 6rem;
+  border-radius: 20px;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body-h5-style {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 55px;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.body-p-style {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  letter-spacing: 0.04em;
+  margin-bottom: 2rem;
+  color: #4e516c;
+}
